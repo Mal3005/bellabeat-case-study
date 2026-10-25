@@ -39,3 +39,28 @@ This is a portfolio case study focused on data analysis and business interpretat
 ## User Activity Distribution
 
 ![Bellabeat activity distribution](bellabeat_activity_distribution.png)
+
+## Key Findings
+
+The analysis explores daily steps, activity intensity, calories burned, and sleep patterns using fitness tracker data.
+
+### User Activity Distribution
+
+![Distribution of Users by Activity Level](bellabeat_activity_distribution.png)
+
+Based on the current analysis in Posit Cloud, the activity levels are distributed as follows:
+
+- **Sedentary:** 40.0%
+- **Fairly active:** 25.7%
+- **Lightly active:** 17.1%
+- **Very active:** 17.1%
+
+### Business Recommendations
+
+- Encourage users to increase their daily movement through achievable activity goals.
+- Use personalized reminders to help users reduce sedentary time.
+- Promote healthy sleep routines and regular activity tracking.
+
+### Limitations
+
+The percentages above come from the current analysis in Posit Cloud. The results should be checked against the final dataset before drawing broader conclusions.
