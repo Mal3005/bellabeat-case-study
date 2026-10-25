@@ -36,3 +36,6 @@ The findings can help inform strategies to encourage regular activity, support h
 
 ## Notes
 This is a portfolio case study focused on data analysis and business interpretation. The results should be interpreted in the context of the available dataset and its limitations.
+## User Activity Distribution
+
+![Bellabeat activity distribution](bellabeat_activity_distribution.png)
