@@ -46,8 +46,6 @@ The analysis explores daily steps, activity intensity, calories burned, and slee
 
 ### User Activity Distribution
 
-![Distribution of Users by Activity Level](bellabeat_activity_distribution.png)
-
 Based on the current analysis in Posit Cloud, the activity levels are distributed as follows:
 
 - **Sedentary:** 40.0%
